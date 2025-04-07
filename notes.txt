@@ -1,0 +1,5 @@
+to be contiued
+---------------------------------------------------------
+- add other video formats besides .mkv , you can ask the user to provide you with the desired format
+
+- ask the user if the founded links are acceptable. get confirmation to start downloads
